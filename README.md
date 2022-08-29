@@ -17,3 +17,5 @@ Projet nommé 'projetGestionCours' contenant les classes Enseignant, Classe, Etu
 #Interface Ajouter Coure
 ![Interface-Ajouter-Coure](https://user-images.githubusercontent.com/84733255/187221994-c12b6f80-b150-4a3b-a657-da30a79a9756.JPG)
 
+#Interface Ajouter Notes
+![Interface-Ajouter-Notes](https://user-images.githubusercontent.com/84733255/187222373-02b2d871-093e-4a68-90b3-7d42979855df.JPG)
